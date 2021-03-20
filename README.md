@@ -4,4 +4,6 @@ A few of my big projects involve *Cassandra#9492*, the fun bot for Discord, and 
 
 [![My GitHub Stats ^-^](https://github-readme-stats.vercel.app/api/?username=SilentSerenityy&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Languages ^-^](https://github-readme-stats.vercel.app/api/top-langs/?username=SilentSerenityy&langs_count=10&theme=tokyonight)]()
+![counter](https://SilentSerenity.m.pipedream.net)
+
 
