@@ -3,18 +3,25 @@
 
 #### If you ever want to describe me in a few words...
 > 🎈 Loves to have fun, yes! 
+> 
 > 🧪 Experimentalist, I like trying out new things *sometimes*
+> 
 > ✨ Razzle-dazzler, desire to add a nice flair to everything I do
+> 
 > 🧨 Limit pusher, nothing more fun than testing the boundaries of some code!
 
 #### And also a few more side notes...
 > 🍩 I like treats because they are yum yum!
+> 
 > 🥰 I'm a solo coder, but I love making friends
 
 #### My social medias...
 > 💬 Discord! Let's be friends! **Shadi#0879**
+> 
 > 💻 Repl.it! **SilentSerenity**
+> 
 > 🎥 YouTube! **SilentSerenity**
+> 
 > 📸 Instagram! **shadi.alostaz**
 
 
