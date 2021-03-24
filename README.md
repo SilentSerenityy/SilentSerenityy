@@ -4,11 +4,11 @@
 #### If you ever want to describe me in a few words...
 > 🎈 Loves to have fun, yes! - coding, in my opinion, is all about the fun (and trial and error) that you incur along the way
 > 
-> 🧪 Experimentalist, I like trying out new things *sometimes* - if I'm really bored or really engaged I'll have a go at something nice and new
+> 🧪 Experimentalist, I like trying out new things *sometimes* - it's interesting seeing the cool stuff out there
 > 
 > ✨ Razzle-dazzler, desire to add a nice flair to everything I do - I am really into styling and making things looks nice
 > 
-> 🧨 Limit pusher, nothing more fun than testing the boundaries of some code! - change up the code, put cool stuff in it, how does it hold?
+> 🧨 Limit pusher, nothing more fun than testing the boundaries of some code! - change up the code, put cool stuff in it
 
 #### And also a few more side notes...
 > 🍩 I like treats because they are yum yum! - Starbucks Frappucinno for the winn
@@ -20,7 +20,7 @@
 > 
 > 💻 Repl.it! **SilentSerenity** - here you can find even more of my code, some scrap code, other interesting things
 > 
-> 🎥 YouTube! **SilentSerenity** - sometimes and not very often I post quite random things, or scrap gaming clips I screen record
+> 🎥 YouTube! **SilentSerenity** - sometimes and not very often I post quite random things, or scrap gaming clips
 
 #### Some good widgets!
 > [![My GitHub Stats ^-^](https://github-readme-stats.vercel.app/api/?username=SilentSerenityy&count_private=false&theme=tokyonight&showicons=true)]()
