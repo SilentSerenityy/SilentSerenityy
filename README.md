@@ -28,5 +28,3 @@
 > ![Visitor Count](https://profile-counter.glitch.me/SilentSerenityy/count.svg)
 
 ### And that's kinda all about me! I hope you find the things I code nice and cool! I love it 😉
-And if you'd like to know, I'm in the process of just writing simple Python codes!
-And I like converting them to Discord Bot code!
