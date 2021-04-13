@@ -1,5 +1,5 @@
 ### 👋 Hello everyone! My name is **Shadi**, and I am just a developer that likes to have fun with many things in life, including, of course, coding!
-### Come and check it out! My official website is **https://shadidev.tk**!! 🥳
+### Come and check it out! My official website is **https://shadidev.tk/**!! 🥳
 
 #### If you ever want to describe me in a few words...
 > 🎈 Loves to have fun, yes! - coding, in my opinion, is all about the fun (and trial and error) that you incur along the way.
@@ -14,6 +14,8 @@
 > 🍩 I like treats because they are yum yum! - Starbucks Frappucinno for the win.
 > 
 > 🥰 I'm a solo coder, but I love making friends - believe me, I really do like making a nice friend.
+> 
+> 💻 I'm the lead developer of the newly verified bot Cassandra#9492 - ask me about it!
 
 #### My social medias...
 > 💬 Discord! Let's be friends! **Shadi#0001** - I like being social, so add me! I am quite the active one.
