@@ -16,7 +16,7 @@
 > 🥰 I'm a solo coder, but I love making friends - believe me, I really do like making a nice friend.
 
 #### My social medias...
-> 💬 Discord! Let's be friends! **Shadi#0879** - I like being social, so add me! I am quite the active one.
+> 💬 Discord! Let's be friends! **Shadi#0001** - I like being social, so add me! I am quite the active one.
 > 
 > 💻 Repl.it! **SilentSerenity** - here you can find even more of my code, some scrap code, other interesting things.
 > 
