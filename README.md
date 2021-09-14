@@ -15,7 +15,7 @@
 > 
 > 🥰 I'm a solo coder, but I love making friends - believe me, I really do like making a nice friend.
 > 
-> 💻 I'm the lead developer of the newly verified bot Cassandra#9492 - ask me about it!
+> 💻 I'm the lead developer of the verified Discord bot Cassandra#9492 - ask me about it!
 
 #### My social medias...
 > 💬 Discord! Let's be friends! **Shadi#9492** - I like being social, so add me! I am quite the active one.
