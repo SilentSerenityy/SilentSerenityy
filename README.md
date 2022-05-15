@@ -28,7 +28,7 @@
 > [![My GitHub Stats ^-^](https://github-readme-stats.vercel.app/api/?username=SilentSerenityy&count_private=false&theme=tokyonight&showicons=true)]()
 > [![My GitHub Languages ^-^](https://github-readme-stats.vercel.app/api/top-langs/?username=SilentSerenityy&langs_count=3&theme=tokyonight)]()
 > ![](https://api.ghprofile.me/view?username=SilentSerenityy&color=purple)
-> >[![Spotify](https://silentserenityy.vercel.app/api/spotify)](https://open.spotify.com/user/9vn2uvmgn1lyuy9i2t9z3sb2a)
+> [![Spotify](https://USER_NAME.vercel.app/api/spotify)](https://open.spotify.com/user/9vn2uvmgn1lyuy9i2t9z3sb2a)
 
 
 
