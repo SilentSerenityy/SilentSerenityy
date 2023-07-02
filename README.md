@@ -1,5 +1,5 @@
 ### 👋 Hello everyone! My name is **Shadi**, and I am just a developer that likes to have fun with many things in life, including, of course, coding!
-### Come and check it out! My official website is **https://shadidev.tk/**!! 🥳
+### Come and check it out! My official website is **https://shadidev.com/**!! 🥳
 
 #### If you ever want to describe me in a few words...
 > 🎈 Loves to have fun, yes! - coding, in my opinion, is all about the fun (and trial and error) that you incur along the way.
