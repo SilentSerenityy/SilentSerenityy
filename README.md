@@ -28,7 +28,7 @@
 > [![My GitHub Stats ^-^](https://github-readme-stats.vercel.app/api/?username=SilentSerenityy&count_private=false&theme=tokyonight&showicons=true)]()
 > [![My GitHub Languages ^-^](https://github-readme-stats.vercel.app/api/top-langs/?username=SilentSerenityy&langs_count=3&theme=tokyonight)]()
 > ![](https://api.ghprofile.me/view?username=SilentSerenityy&color=purple)
-
+> [![Discord Presence](https://lanyard.cnrad.dev/api/:id)](https://discord.com/users/705074519756505138)
 
 
 ### And that's kinda all about me! I hope you find the things I code nice and cool! I love it 😉
